@@ -4,7 +4,7 @@ I'm Midori from Brazil.
 
 <br/>
 
-Here my profssional life:
+Here's my professional life:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/midorifukami/)](https://www.linkedin.com/in/midorifukami/)
 
