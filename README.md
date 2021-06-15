@@ -13,11 +13,13 @@ Here's what I do for hobby 👾:
 
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/Midorifukami)](https://www.youtube.com/Midorifukami)
 
+[Twitch](https://www.twitch.tv/midorifukami)
 <br/>
 
 Here's my professional life:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/midorifukami/)](https://www.linkedin.com/in/midorifukami/)
+
 
 <br/>
 
