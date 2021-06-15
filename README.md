@@ -5,7 +5,7 @@ I have two beautiful swiss shepherds.
 
 👩🏻‍💻 I’m currently working on [BRQ](http://www.brq.com/) ([B3](http://www.b3.com.br/pt_br/))
 
-My portifolio [here](https://midori-fukami.github.io)
+My portifolio [here](https://midori-fukami.github.io) (under construction)
 
 <br/>
 
