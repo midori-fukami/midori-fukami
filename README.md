@@ -3,7 +3,7 @@
 I'm Midori from Brazil.
 I have two beautiful swiss shepherds.
 
-👩🏻‍💻 I’m currently working on [BRQ](http://www.brq.com/) ([B3](http://www.b3.com.br/pt_br/))
+👩🏻‍💻 I’m currently working on [White Prompt](https://whiteprompt.com/)
 
 My portifolio [here](https://midori-fukami.github.io) (under construction)
 
