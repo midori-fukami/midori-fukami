@@ -3,7 +3,7 @@
 I'm Midori from Brazil.
 I have two beautiful swiss shepherds.
 
-👩🏻‍💻 I’m currently working on [Sebratec](https://sebratec.com/)
+👩🏻‍💻 I’m currently working on [Haypp Group](https://hayppgroup.com/)
 
 My portifolio [here](https://midori-fukami.github.io) (under construction)
 
